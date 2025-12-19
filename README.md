@@ -36,6 +36,13 @@ TeamSync automatically extracts action items from meeting transcripts using AI, 
 - Quick status updates with one click
 - Filter by assignee, priority, or due date
 
+### 📤 Meeting Upload
+- Upload meeting transcripts directly from the dashboard
+- Sample transcript provided for testing
+- Real-time processing feedback
+- Automatic redirect to dashboard after upload
+- Email confirmation sent immediately
+
 ### 📧 Smart Notifications
 - Instant email confirmation after meeting processing
 - Daily reminder emails (9 AM) for due/overdue items
