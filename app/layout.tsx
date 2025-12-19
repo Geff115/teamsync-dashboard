@@ -45,6 +45,12 @@ export default function RootLayout({
                     >
                       Actions
                     </Link>
+                    <Link
+                      href="/upload"
+                      className="text-slate-600 hover:text-slate-900 font-medium transition-colors"
+                    >
+                      Upload
+                    </Link>
                   </div>
                 </div>
               </div>
