@@ -95,7 +95,7 @@ Send Reminders (Event Step)
 
 ## 🚀 How Motia Simplified Development
 
-### Traditional Approach (What We Avoided)
+### Traditional Approach (What I Avoided)
 ```typescript
 // Separate services
 const queue = new BullMQ(redis);
@@ -121,7 +121,7 @@ cron.schedule('0 9 * * *', async () => {
 });
 ```
 
-### Motia Approach (What We Built)
+### Motia Approach (What I Built)
 ```typescript
 // upload-meeting.step.ts
 export const config = {
@@ -166,10 +166,15 @@ After processing 5+ meetings in production:
 - 🔄 **Real-time** dashboard updates
 - ⏰ **Daily reminders** running automatically
 
+## Link To Backend Git Repository
+
+**Backend Repository**: [github.com/Geff115/teamsync-backend](https://www.github.com/Geff115/teamsync-backend)
+
 ## 🎥 Demo
 
-**Live Demo**: [teamsync-dashboard-tau.vercel.app](https://teamsync-dashboard-tau.vercel.app/)  
+**Live Dashboard**: [teamsync-dashboard-tau.vercel.app](https://teamsync-dashboard-tau.vercel.app/)  
 **Backend API**: [https://jghvzq-0z4esm.abrielffangha-8424nb996g.motia.cloud](https://jghvzq-0z4esm.abrielffangha-8424nb996g.motia.cloud)
+**Presentation Video**: [#](#)
 
 ## 🏆 Why TeamSync Wins
 
