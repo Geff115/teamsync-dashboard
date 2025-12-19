@@ -95,6 +95,8 @@ Send Reminders (Event Step)
 
 ## 🚀 How Motia Simplified Development
 
+Motia is an open-source, unified backend framework that eliminates runtime fragmentation by bringing **APIs, background jobs, queueing, streaming, state, workflows, AI agents, observability, scaling, and deployment** into one unified system using a single core primitive, the **Step**.
+
 ### Traditional Approach (What I Avoided)
 ```typescript
 // Separate services
