@@ -252,7 +252,7 @@ NEXT_PUBLIC_API_URL=https://your-motia-deployment.motia.cloud
 Gabriel Effangha - Solo developer for Backend Reloaded Hackathon
 
 **Hackathon**: Backend Reloaded  
-**Timeline**: 7 days (Dec 16-19, 2025)  
+**Timeline**: 7 days (Dec 15-21, 2025)  
 **Technologies**: Motia, TypeScript, Next.js, Gemini AI, Resend
 
 ## 📄 License
