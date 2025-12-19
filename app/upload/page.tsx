@@ -50,7 +50,7 @@ export default function UploadPage() {
     });
   };
 
-  const sampleTranscript = `Sprint Planning Meeting - December 19, 2024
+  const sampleTranscript = `Sprint Planning Meeting - December 19, 2025
 
 Attendees: Sarah (PM), John (Tech Lead), Alice (Designer), Bob (Backend Dev)
 
