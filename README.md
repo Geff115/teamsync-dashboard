@@ -183,7 +183,7 @@ After processing 5+ meetings in production:
 
 **Live Dashboard**: [teamsync-dashboard-tau.vercel.app](https://teamsync-dashboard-tau.vercel.app/)  
 **Backend API**: [https://jghvzq-0z4esm.abrielffangha-8424nb996g.motia.cloud](https://jghvzq-0z4esm.abrielffangha-8424nb996g.motia.cloud)  
-**Presentation Video**: [#](#)
+**Presentation Video**: [youtu.be/Tf9FxlQ04GQ](https://youtu.be/Tf9FxlQ04GQ)
 
 ## 🏆 Why TeamSync Wins
 
